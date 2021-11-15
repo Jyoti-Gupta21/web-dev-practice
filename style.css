@@ -1,0 +1,27 @@
+body {
+  background-color: #5aa897;
+  text-align: center;
+}
+
+.container {
+  font-size: 4rem;
+}
+
+.dice {
+  display: inline-block;
+  margin: 0 30px 90px;
+}
+p {
+  font-size: 2rem;
+  color: #105652;
+  font-family: "Courgette", cursive;
+}
+h1 {
+  color: #150e56;
+  margin: 75px 0 0;
+  font-family: "Lobster Two", cursive;
+}
+footer {
+  color: #1b2021;
+  font-family: "Pacifico", cursive;
+}
